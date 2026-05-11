@@ -1,0 +1,10 @@
+Városi Bicikli-kölcsönző és Flottakezelő (EcoRide Manager)
+Ez a projekt a valós idejű állapotváltozások (State Management) kezelésére fókuszál.
+
+A koncepció: 
+Egy lista alapú nézet, ahol látjuk a városban elérhető bicikliket, azok töltöttségét és aktuális állapotukat.
+
+Állapotok: "ELÉRHETŐ" | "FOGLALT" | "TÖLTÖDIK" | "KARBANTATÁS"
+
+HTML/UI: 
+Interaktív gombok a "Kibérlés", "Leadás", "Szervíz" funkciókhoz, szűrők az akkumulátor szintje alapján.

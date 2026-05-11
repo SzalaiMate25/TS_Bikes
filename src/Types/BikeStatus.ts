@@ -1,0 +1,1 @@
+export type BikeStatus = "ELÉRHETŐ" | "FOGLALT" | "TÖLTÖDIK" | "KARBANTATÁS";
